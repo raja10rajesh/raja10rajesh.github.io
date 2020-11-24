@@ -87,12 +87,13 @@ ul, ol {
 	margin: 0 auto;
 }
 hr {
-	height: 2px;
+	height: 3.8px;
 	width: 60px;
-	background: #A4DBC5;
+	background: #de2e33;
 	position: relative;
 	border: 0;
 	margin: 30px 0 0 0;
+	border-radius: 15px;
 }
 /* Navigation */
 #menu {
@@ -104,27 +105,29 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-size: 20px;
+	font-size: 30px;
 	color: #fff;
 	font-weight: 400;
 	letter-spacing: 1px;
+	font-family: Damion;
 }
 #menu a.navbar-brand i.fa {
 	color: #83af9d;
 }
 #menu.navbar-default .navbar-nav > li > a {
-	text-transform: uppercase;
+	
 	color: #ffffff;
-	font-size: 12px;
+	font-style: poppins-bold;
+	font-size: 16px;
 	letter-spacing: 1px;
 	font-weight: 500;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #83af9d;
+	color: #3d73bd;
 }
 .on {
-	background-color: #444 !important;
-	padding: 0 !important;
+	background-color: #000000 !important;
+	padding: 1 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: #fff !important;
@@ -142,7 +145,7 @@ hr {
 }
 /* Home Style */
 header {
-	background: url(../img/header-bg.jpg) no-repeat center center;
+	background: url(../img/BGhead.jpg) no-repeat center center;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
@@ -178,12 +181,13 @@ header p {
 	font-size: 16px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	border-radius: 0;
+	border-radius: 1.5px;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	background-color: #83af9d;
-	border: 2px solid #83af9d;
+	background-color: #3d73bd;
+	border: 2px solid #3d73bd;
 	color: #fff;
+	
 }
 .section-title {
 	padding-top: 10px;
@@ -197,7 +201,7 @@ header p {
 #about-section .container {
 	padding-top: 100px;
 	padding-bottom: 100px;
-	background: url(../img/about-bg.jpg) right no-repeat;
+	background: url(../img/Raj.jpg) right no-repeat;
 	background-size: auto 100%;
 }
 #about-section p {
@@ -205,7 +209,7 @@ header p {
 }
 #about-section .btn-default {
 	color: #f6f6f6;
-	background-color: #555;
+	background-color: #212121;
 	border: 0;
 	margin: 20px 0 0 0;
 	padding: 8px 30px;
@@ -215,7 +219,7 @@ header p {
 	border-radius: 0;
 }
 #about-section .btn-default:hover, #about-section .btn-default:focus, #about-section .btn-default.focus, #about-section .btn-default:active, #about-section .btn-default.active {
-	background-color: #444;
+	background-color: #080808;
 }
 /* Services Section */
 #services-section {
@@ -590,9 +594,9 @@ label {
 	font-size: 15px;
 }
 #contact-section .btn:hover, #contact-section .btn:focus {
-	background: #83af9d;
-	border-color: #83af9d;
-	color: #fff;
+	background: #fff;
+	border-color: #fff;
+	color: #212121;
 }
 #contact-section .text-danger {
 	color: #cc3300;
@@ -637,13 +641,19 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer */
 #footer {
-	background: #f6f6f6;
+	background: #212121;
 	padding: 15px 0 10px 0;
 }
 #footer p {
 	font-size: 13px;
 	margin-top: 10px;
-	color: #999;
+	color: #fff;
+}
+#footer a{
+	color: #fff;
+}
+#footer a:hover{
+	color: #ffd700;
 }
 
 @media (max-width: 979px) {
@@ -675,4 +685,61 @@ label {
 .hover-bg .hover-text {
 	padding: 22% 10%;
 }
+}
+.list--social {
+	margin: 0;
+	padding: 0
+}
+
+.list--social__item {
+	display: inline-block;
+	vertical-align: middle
+}
+
+.list--social__link,
+.list--social__icon,
+.list--social svg {
+	display: block
+}
+
+.list--social svg,
+.list--social path {
+	fill: inherit
+}
+
+.list--social__link {
+	padding: .4rem;
+	transition-property: fill, -webkit-transform;
+	transition-property: fill, transform;
+	transition-property: fill, transform, -webkit-transform;
+	-webkit-transform-origin: center;
+	-ms-transform-origin: center;
+	transform-origin: center
+}
+.list--social a:hover{
+	fill: #0A7FEC;
+}
+
+.list--social__link:active {
+	-webkit-transform: scale(.85);
+	-ms-transform: scale(.85);
+	transform: scale(.85)
+}
+.resume{
+	width: 200px;
+	height: 200px;
+	border-radius: 11px;
+	background: #ab1e1e;
+	border: none;
+	box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+	float: left;
+	/* background: url(../img/Rajesh.jpg) right no-repeat; */
+	padding-right: 30px;
+}
+
+.savutelivi{
+	width: 600px;
+	height: 600px;
+	background: transparent;
+	float: right;
 }
