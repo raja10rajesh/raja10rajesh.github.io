@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.templategarden.com/preview/corvus/template/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Nov 2020 19:13:51 GMT -->
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Corvus</title>
+<title>Rajesh Sai K</title>
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -16,7 +15,9 @@
 <!-- Stylesheet  -->
 <link rel="stylesheet"  href="./css/style.css">
 <link rel="stylesheet"  href="./css/font-awesome.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
 
+<link href="https://fonts.googleapis.com/css2?family=Damion&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="./css/animate.css">
 <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
@@ -43,16 +44,15 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-      <a class="navbar-brand " href="index.html"><i class="fa fa-code"></i> Corvus</a></div>
+      <a class="navbar-brand " href="index.html"></i> Rajesh</a></div>
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#home" class="page-scroll">Home</a></li>
         <li><a href="#about-section" class="page-scroll">About</a></li>
-        <li><a href="#services-section" class="page-scroll">Services</a></li>
+        <li><a href="#services-section" class="page-scroll">Skills</a></li>
         <li><a href="#works-section" class="page-scroll">Portfolio</a></li>
-        <li><a href="#clients-section" class="page-scroll">Clients</a></li>
         <li><a href="#testimonials-section" class="page-scroll">Testimonials</a></li>
         <li><a href="#contact-section" class="page-scroll">Contact</a></li>
       </ul>
@@ -66,8 +66,8 @@
 <header name="home">
   <div class="container">
     <div class="intro-text">
-      <h1 class="wow fadeInDown">Hello, I'm <span class="brand">Rajesh Sai</span></h1>
-      <p class="wow fadeInDown" data-wow-delay="600ms">Electrical Engieneer</p>
+      <h1 class="wow fadeInDown"> <small style="font-size: 35px; color:#ffff ;"> Hello, I'm </small> <span class="brand">Rajesh Sai</span></h1>
+      <p class="wow fadeInDown" data-wow-delay="600ms">Anni Chesta Mowa</p>
       <div class="clearfix"></div>
       <a href="#about-section" class="btn btn-default btn-lg page-scroll wow fadeInDown" data-wow-delay="1000ms">Learn More</a> </div>
   </div>
@@ -79,14 +79,22 @@
       <h2>About Me</h2>
       <hr>
     </div>
+    
     <div class="row wow fadeInDown" data-wow-delay="200ms">
       <div class="col-md-6">
+        
+        <!-- <div class="savutelivi"></div> -->
+          <!-- <div class="resume"> </div> -->
         <div class="about-text1">
+     
           <h3>Lorem ipsum dolor amet consectetur adipiscing</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <a href="#works-section" class="btn btn-default page-scroll">My Works</a> </div>
-      </div>
+          <a href="Rajesh_Resume_PhD_Application.pdf" class="btn btn-default page-scroll" download="" target="blank"> <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" style="padding-right: 3.2px;"><path fill="#fff" d="M15 10h4l-7 8-7-8h4v-10h6v10zm6 9v5h-18v-5h18zm-6 2h-1v1h1v-1zm2 0h-1v1h1v-1zm2 0h-1v1h1v-1z"/></svg>   Resume</a>
+        
+        </div>
+      
+        </div>
     </div>
     <div class="col-md-6"></div>
   </div>
@@ -103,25 +111,25 @@
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="row service wow fadeInDown" data-wow-delay="200ms">
-          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <i class="fa fa-desktop"></i> </div>
+          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M16.25 6c.414 0 .75.336.75.75v9.5c0 .414-.336.75-.75.75h-9.5c-.414 0-.75-.336-.75-.75v-9.5c0-.414.336-.75.75-.75h9.5zm2.75 0c0-1.104-.896-2-2-2h-11c-1.104 0-2 .896-2 2v11c0 1.104.896 2 2 2h11c1.104 0 2-.896 2-2v-11zm-11 14v3h-1v-3h1zm4 0v3h-1v-3h1zm2 0v3h-1v-3h1zm-4 0v3h-1v-3h1zm6 0v3h-1v-3h1zm-8-20v3h-1v-3h1zm4 0v3h-1v-3h1zm2 0v3h-1v-3h1zm-4 0v3h-1v-3h1zm6 0v3h-1v-3h1zm4 15h3v1h-3v-1zm0-4h3v1h-3v-1zm0-2h3v1h-3v-1zm0 4h3v1h-3v-1zm0-6h3v1h-3v-1zm-20 8h3v1h-3v-1zm0-4h3v1h-3v-1zm0-2h3v1h-3v-1zm0 4h3v1h-3v-1zm0-6h3v1h-3v-1z"/></svg> </div>
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            <h4>Web Design</h4>
+            <h4 style="transform: translate(0px, -5px ) ;">Web Design</h4>
             <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
           </div>
         </div>
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="row service wow fadeInDown" data-wow-delay="400ms">
-          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <i class="fa fa-mobile"></i> </div>
+          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M24 10.935v2.131l-8 3.947v-2.23l5.64-2.783-5.64-2.79v-2.223l8 3.948zm-16 3.848l-5.64-2.783 5.64-2.79v-2.223l-8 3.948v2.131l8 3.947v-2.23zm7.047-10.783h-2.078l-4.011 16h2.073l4.016-16z"/></svg> </div>
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            <h4>App Design</h4>
+            <h4 style="transform: translate(0px, -5px ) ;">App Design</h4>
             <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
           </div>
         </div>
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="row service wow fadeInDown" data-wow-delay="600ms">
-          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <i class="fa fa-html5" ></i> </div>
+          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M24 10.935v2.131l-8 3.947v-2.23l5.64-2.783-5.64-2.79v-2.223l8 3.948zm-16 3.848l-5.64-2.783 5.64-2.79v-2.223l-8 3.948v2.131l8 3.947v-2.23zm7.047-10.783h-2.078l-4.011 16h2.073l4.016-16z"/></svg>  </div>
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
             <h4>PSD to HTML</h4>
             <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
@@ -130,7 +138,7 @@
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="row service wow fadeInDown" data-wow-delay="600ms">
-          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <i class="fa fa-wordpress"></i> </div>
+          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M24 10.935v2.131l-8 3.947v-2.23l5.64-2.783-5.64-2.79v-2.223l8 3.948zm-16 3.848l-5.64-2.783 5.64-2.79v-2.223l-8 3.948v2.131l8 3.947v-2.23zm7.047-10.783h-2.078l-4.011 16h2.073l4.016-16z"/></svg>  </div>
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
             <h4>PSD to WordPress</h4>
             <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
@@ -139,7 +147,7 @@
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="row service wow fadeInDown" data-wow-delay="600ms">
-          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <i class="fa fa-rocket"></i> </div>
+          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M24 10.935v2.131l-8 3.947v-2.23l5.64-2.783-5.64-2.79v-2.223l8 3.948zm-16 3.848l-5.64-2.783 5.64-2.79v-2.223l-8 3.948v2.131l8 3.947v-2.23zm7.047-10.783h-2.078l-4.011 16h2.073l4.016-16z"/></svg>  </div>
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
             <h4>Branding</h4>
             <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
@@ -148,7 +156,7 @@
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="row service wow fadeInDown" data-wow-delay="600ms">
-          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"> <i class="fa fa-leaf"></i> </div>
+          <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs"><svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24"><path d="M24 10.935v2.131l-8 3.947v-2.23l5.64-2.783-5.64-2.79v-2.223l8 3.948zm-16 3.848l-5.64-2.783 5.64-2.79v-2.223l-8 3.948v2.131l8 3.947v-2.23zm7.047-10.783h-2.078l-4.011 16h2.073l4.016-16z"/></svg>  </div>
           <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
             <h4>Print Design</h4>
             <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
@@ -162,24 +170,35 @@
 <div id="achievements">
   <div class="container">
     <div class="row">
-      <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="200ms">
-        <div class="achievement-box"> <span class="count">210</span>
-          <h4>Happy Clients</h4>
+      <div class="col-md-1 col-sm-1 wow fadeInDown" data-wow-delay="200ms" >
+        <div class="achievement-box"> <span class="count" style="opacity: 0%;">6</span>
+          <h4 style="opacity: 0%;">Cheppu mowa</h4>
         </div>
       </div>
       <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
-        <div class="achievement-box"> <span class="count">860</span>
+        <div class="achievement-box"> <span class="count">20</span>
           <h4>Projects Completed</h4>
         </div>
       </div>
+      <div class="col-md-1 col-sm-1 wow fadeInDown" data-wow-delay="200ms" >
+        <div class="achievement-box"> <span class="count" style="opacity: 0%;">6</span>
+          <h4 style="opacity: 0%;">Copied kadu edavaku</h4>
+        </div>
+      </div>
+      
       <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="600ms">
-        <div class="achievement-box"> <span class="count">30</span>
+        <div class="achievement-box"> <span class="count">6</span>
           <h4>Awards Won</h4>
         </div>
       </div>
+      <div class="col-md-1 col-sm-1 wow fadeInDown" data-wow-delay="200ms" >
+        <div class="achievement-box"> <span class="count" style="opacity: 0%;">6</span>
+          <h4 style="opacity: 0%;">Aha Endi Ra nee baada</h4>
+        </div>
+      </div>
       <div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
-        <div class="achievement-box"> <span class="count">12</span>
-          <h4>Years of Experience</h4>
+        <div class="achievement-box"> <span class="count">7</span>
+          <h4> Years of experience</h4>
         </div>
       </div>
     </div>
@@ -303,24 +322,24 @@
   </div>
 </div>
 <!-- Clients Section -->
-<div id="clients-section">
+<!-- <div id="clients-section">
   <div class="container">
     <div class="section-title wow fadeInDown">
       <h2>Recent Clients</h2>
       <hr>
     </div>
     <ul class="row">
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-1.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-2.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-3.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-4.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-5.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-6.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-7.png" alt=""> </li>
-      <li class="col-xs-6 col-sm-3"> <img src="https://www.templategarden.com/preview/corvus/template/img/clients/logo-8.png" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
+      <li class="col-xs-6 col-sm-3"> <img src="#" alt=""> </li>
     </ul>
   </div>
-</div>
+</div> -->
 <!-- Testimonials Section -->
 <div id="testimonials-section">
   <div class="container">
@@ -332,15 +351,15 @@
     <div class="row">
       <div class="col-sm-4 wow fadeInDown" data-wow-delay="200ms">
         <blockquote>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamsed commodo nibh ante facilisis bibendum dolor feugiat at. </p>
+          <p>Pedda Mogga na koduku </p>
         </blockquote>
         <div class="carousel-info"> <img alt="" src="./img/IMG_1657_edited---KOMMARAJU-JOSHI-MANOHAR.jpg" class="pull-left">
-          <div class="pull-left"> <span class="testimonials-name">Joshi Kommaraju</span> <span class="testimonials-post">MD,  Delight Inc.</span> </div>
+          <div class="pull-left"> <span class="testimonials-name">Joshi Kommaraju</span> <span class="testimonials-post"> CTO, Download Studios</span> </div>
         </div>
       </div>
       <div class="col-sm-4 wow fadeInDown" data-wow-delay="400ms">
         <blockquote>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamsed commodo nibh ante facilisis bibendum dolor feugiat at. </p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamsed commodo nibba ante facilisis bibendum dolor feugiat at. </p>
         </blockquote>
         <div class="carousel-info"> <img alt="" src="./img/Tony.jpg" class="pull-left">
           <div class="pull-left"> <span class="testimonials-name">Yaswanth</span> <span class="testimonials-post">Founder, Srk's Veda</span> </div>
@@ -358,22 +377,24 @@
   </div>
 </div>
 <!-- Contact Section -->
-<!-- <div id="contact-section">
+<div id="contact-section">
   <div class="container">
     <div class="section-title wow fadeInDown">
       <h2>Contact Me</h2>
-      <hr>
+      <hr style="background: #ffff;">
       <div class="clearfix"></div>
     </div>
     <div class="col-md-4 wow fadeInDown" data-wow-delay="200ms">
       <h3>Contact info</h3>
       <div class="space"></div>
-      <p><i class="fa fa-map-marker fa-fw pull-left"></i>321 Awesome Street<br>
+      <p><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><path fill="#fff" d="M12 0c-4.198 0-8 3.403-8 7.602 0 6.243 6.377 6.903 8 16.398 1.623-9.495 8-10.155 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.342-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></svg> 321 Awesome Street<br>
         New York, NY 17022</p>
       <div class="space"></div>
-      <p><i class="fa fa-envelope-o fa-fw pull-left"></i>info@companyname.com</p>
+      <p><strong style="font-size: x-large;">@</strong>   info@companyname.com</p>
       <div class="space"></div>
-      <p><i class="fa fa-phone fa-fw pull-left"></i>+1 800 123 1234</p>
+      
+      <p ><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"><path fill="#fff" d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm4.5 17.311l-1.76-3.397-1.032.505c-1.12.543-3.4-3.91-2.305-4.497l1.042-.513-1.747-3.409-1.053.52c-3.601 1.877 2.117 12.991 5.8 11.308l1.055-.517z"/></svg>
+        +91 6305 665 906</p>
     </div>
     <div class="col-md-8 wow fadeInDown" data-wow-delay="400ms">
       <h3>Leave me a message</h3>
@@ -401,24 +422,40 @@
       </form>
     </div>
   </div>
-</div> -->
+</div>
 <div id="social-section">
   <div class="container">
     <div class="social wow fadeInDown" data-wow-delay="600ms">
       <ul>
-        <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#" title="Dribbble"><i class="fa fa-dribbble"></i></a></li>
-        <li><a href="#" title="GitHub"><i class="fa fa-github"></i></a></li>
-        <li><a href="#" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-        <li><a href="#" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+        <li class=list--social__item>
+          <a class=list--social__link target=_blank href="https://www.facebook.com/rajesh.sai">
+            <i class=list--social__icon>
+              <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24"><path fill="#" d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 10h-2v2h2v6h3v-6h1.82l.18-2h-2v-.833c0-.478.096-.667.558-.667h1.442v-2.5h-2.404c-1.798 0-2.596.792-2.596 2.308v1.692z"/></svg></i>
+              </a> </li>
+        <li class=list--social__item>
+        <a class=list--social__link target=_blank href="https://www.instagram.com/rajesh_sai_kudipudi/">
+         <i class=list--social__icon>
+        <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24"><path fill="#" d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 7.082c1.602 0 1.792.006 2.425.035 1.627.074 2.385.845 2.46 2.459.028.633.034.822.034 2.424s-.006 1.792-.034 2.424c-.075 1.613-.832 2.386-2.46 2.46-.633.028-.822.035-2.425.035-1.602 0-1.792-.006-2.424-.035-1.63-.075-2.385-.849-2.46-2.46-.028-.632-.035-.822-.035-2.424s.007-1.792.035-2.424c.074-1.615.832-2.386 2.46-2.46.632-.029.822-.034 2.424-.034zm0-1.082c-1.63 0-1.833.007-2.474.037-2.18.1-3.39 1.309-3.49 3.489-.029.641-.036.845-.036 2.474 0 1.63.007 1.834.036 2.474.1 2.179 1.31 3.39 3.49 3.49.641.029.844.036 2.474.036 1.63 0 1.834-.007 2.475-.036 2.176-.1 3.391-1.309 3.489-3.49.029-.64.036-.844.036-2.474 0-1.629-.007-1.833-.036-2.474-.098-2.177-1.309-3.39-3.489-3.489-.641-.03-.845-.037-2.475-.037zm0 2.919c-1.701 0-3.081 1.379-3.081 3.081s1.38 3.081 3.081 3.081 3.081-1.379 3.081-3.081c0-1.701-1.38-3.081-3.081-3.081zm0 5.081c-1.105 0-2-.895-2-2 0-1.104.895-2 2-2 1.104 0 2.001.895 2.001 2s-.897 2-2.001 2zm3.202-5.922c-.397 0-.72.322-.72.72 0 .397.322.72.72.72.398 0 .721-.322.721-.72 0-.398-.322-.72-.721-.72z"/></svg></i>
+    </a> </li>
+     
+    <li class=list--social__item>
+      <a class=list--social__link target=_blank href="https://github.com/raja10rajesh">
+       <i class=list--social__icon>
+        <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24"><path fill="#" d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 6c-3.313 0-6 2.686-6 6 0 2.651 1.719 4.9 4.104 5.693.3.056.396-.13.396-.289v-1.117c-1.669.363-2.017-.707-2.017-.707-.272-.693-.666-.878-.666-.878-.544-.373.041-.365.041-.365.603.042.92.619.92.619.535.917 1.403.652 1.746.499.054-.388.209-.652.381-.802-1.333-.152-2.733-.667-2.733-2.965 0-.655.234-1.19.618-1.61-.062-.153-.268-.764.058-1.59 0 0 .504-.161 1.65.615.479-.133.992-.199 1.502-.202.51.002 1.023.069 1.503.202 1.146-.776 1.648-.615 1.648-.615.327.826.121 1.437.06 1.588.385.42.617.955.617 1.61 0 2.305-1.404 2.812-2.74 2.96.216.186.412.551.412 1.111v1.646c0 .16.096.347.4.288 2.383-.793 4.1-3.041 4.1-5.691 0-3.314-2.687-6-6-6z"/></svg></i>
+  </a> </li>
+       
+        <li class=list--social__item>
+          <a class=list--social__link target=_blank href="https://www.linkedin.com/in/rajesh-sai-k/">
+           <i class=list--social__icon>
+            <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24"><path fill="#" d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></i>
+      </a> </li>
       </ul>
     </div>
   </div>
 </div>
 <div id="footer" class="text-center">
   <div class="container">
-    <p>Copyright &copy; Corvus. All rights reserved.</p>
+    <p>Made With <B style="color: #ff1818;">❤ </B> by <a href="#" > webxotica</a></p>
   </div>
 </div>
 
